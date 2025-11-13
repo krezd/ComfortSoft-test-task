@@ -1,4 +1,4 @@
-Я использовал gralde в качестве системы сборки, а также java 21
+Я использовал gradle в качестве системы сборки, а также java 21
 
 .\gradlew.bat clean build  - для сборки на windows 
 ./gradlew clean build - для сборки на linux
